@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile/assets/newworldgpt-banner.png" alt="NewWorldGPT - private AI workspaces for congregation care" width="100%">
+  <img src="assets/newworldgpt-banner.png" alt="NewWorldGPT - private AI workspaces for congregation care" width="100%">
 </p>
 
 # NewWorldGPT
@@ -10,7 +10,7 @@ NewWorldGPT builds private AI workspaces for congregations that need one trusted
 
 NewWorldGPT combines a congregation workspace, channel discussions, a private knowledge base, and an AI assistant that answers inside the context of each channel.
 
-![NewWorldGPT workspace preview](profile/assets/workspace-preview.png)
+![NewWorldGPT workspace preview](assets/workspace-preview.png)
 
 ## What NewWorldGPT Helps With
 
