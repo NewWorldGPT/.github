@@ -1,18 +1,18 @@
 <p align="center">
-  <img src="assets/newworldgpt-banner.png" alt="NewWorldGPT - private AI workspaces for congregation care" width="100%">
+  <img src="assets/newworldgpt-banner.png" alt="NewWorldSteward - private AI workspaces for congregation care" width="100%">
 </p>
 
-# NewWorldGPT
+# NewWorldSteward
 
-NewWorldGPT builds private AI workspaces for congregations that need one trusted place for knowledge, decisions, action items, and document-grounded assistance. It helps keep congregation work organized without handing sensitive context to tools they cannot govern.
+NewWorldSteward builds private AI workspaces for congregations that need one trusted place for knowledge, decisions, action items, and document-grounded assistance. It helps keep congregation work organized without handing sensitive context to tools they cannot govern.
 
 ## What We Are Building
 
-NewWorldGPT combines a congregation workspace, channel discussions, a private knowledge base, and an AI assistant that answers inside the context of each channel.
+NewWorldSteward combines a congregation workspace, channel discussions, a private knowledge base, and an AI assistant that answers inside the context of each channel.
 
-![NewWorldGPT workspace preview](assets/workspace-preview.png)
+![NewWorldSteward workspace preview](assets/workspace-preview.png)
 
-## What NewWorldGPT Helps With
+## What NewWorldSteward Helps With
 
 - Keep congregation channels organized for standing topics, committees, and needs.
 - Capture posts, proposals, verified answers, and decisions with context.
